@@ -1,0 +1,22 @@
+Which customers generate the most profit for the company?
+Which products have the highest profit margin? Does this change over time?
+Which products were returned most ofen?
+Most popular product over time?
+Average price of a product over time?
+Which suppliers are cheapest for which items? Does this change over time?
+Which customers returned products most frequently?
+Which customers ordered most frequently? Assume order date is first shipping date?
+Which customers buy/spend the most?
+What is the average time taken to ship a whole sales order?
+Which items are commonly ordered by customer? Can common items be kept in stock so they are ready to go?
+Which sales team is the most profitable? Total profit? Profit per item? Profit per order?
+Which sales team sells the most?
+Is it possible to detect fraud through sales vs returns? No, don't have complete data so don't know what was ordered previously.
+    Are more items being returned than sold?
+    Are items being returned at a higher price than sold, e.g. bought on sale?
+Customer that orders the most over time?
+Sales team profit over time?
+Can shipping efficiency being improved? e.g. by waiting before shipping?
+Data discrepancies? What are there? What questions do these raise?
+Do any sales teams offer discounts too often?
+
